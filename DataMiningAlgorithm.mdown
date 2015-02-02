@@ -1,0 +1,6 @@
+The name of the Algorithm I read was Apriori
+It solves the problem of Association.
+the Algorithm basically looks at if and else conditions and stores the number of frequency the condition is met. once its done , It can calculate the probability of an item present just by looking at the antecedent.
+This algorithm can be widely usued in online marketing where recommendations can be made for purchase upon selecting an specified item.
+In a cosmetics facory setting , this algorithm can be applied to predict mechanic downtime issues with unique packiging. If there is a type of cap that causes issues on two or three pieces of equipment or a certain type of jar causing downtimes on other pieces of equipment. we can use this algorithm to calculate the probablity of equipment downtime based on packaging profile.
+Also in a factory setting , as assoication can be made in the tool crib where we can determing the tools that have a high probaility of being used at the same time to be stored in a close proximity to save time for the mechanics to be able to acquire tools in a timely fashion. 
